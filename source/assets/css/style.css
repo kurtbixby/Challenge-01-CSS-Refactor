@@ -1,3 +1,4 @@
+/* General Selectors */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -22,6 +23,7 @@ p {
     font-size: 16px;
 }
 
+/* Selectors for the top-level header part of the page with the logo and intra-site navigation links */
 .top-level-header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +48,7 @@ p {
     margin-left: 25px;
 }
 
+/* Styling of the main image between the header and the main body of the page */
 .hero-image {
     height: 800px;
     width: 100%;
@@ -54,12 +57,14 @@ p {
     background-position: center;
 }
 
+/* Styling for the wide "column" comprising the main content of the page */
 .main-body {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Styling for the wide blocks making up the main-body column of the page */
 .body-block {
     margin-bottom: 20px;
     padding: 50px;
@@ -78,6 +83,7 @@ p {
     font-size: 36px;
 }
 
+/* Classes to float img elements to the left and right. Applied to the img elements in the body-block */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -88,6 +94,7 @@ p {
     margin-left: 25px;
 }
 
+/* Styling for the sidebar running down the right side of the page */
 .main-sidebar {
     margin-right: 20px;
     padding: 20px;
@@ -99,6 +106,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Classes for the component elements of the sidebar */
 .sidebar-block {
     margin-bottom: 32px;
     color: #ffffff;
@@ -115,6 +123,7 @@ p {
     max-width: 150px;
 }
 
+/* Styling for the main footer at the bottom of the page */
 .main-footer {
     padding: 30px;
     clear: both;
@@ -124,4 +133,9 @@ p {
 
 .main-footer h2 {
     font-size: 20px;
+}
+
+/* Styling to highlight the "seo" in the Horiseon logo in the header */
+#logo-seo-highlight {
+    color: #d9dcd6;
 }
