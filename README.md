@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Boot Camp Challenge 1
+![Screenshot of the website](docs/images/site-screenshot.png)
 
-You can use the [editor on GitHub](https://github.com/kurtbixby/Challenge-01/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Description
+=====
+An exercise to cleanup and refactor the HTML and CSS of an existing webpage. Semantic HTML and CSS guidelines were followed and implemented, and alt attributes were added to the img elements.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Demo
+=====
+Here's a live deployed version of the refactored site: [https://kurtbixby.github.io/Challenge-01-CSS-Refactor/](https://kurtbixby.github.io/Challenge-01-CSS-Refactor/).
 
-### Markdown
+Notes
+=====
+Favicon created on [favicon.io](https://favicon.io).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Credits
+=====
+__[Kurt Bixby](https://github.com/kurtbixby)__ refactored this webpage from starter assets provided by UT Web Development Boot Camp.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kurtbixby/Challenge-01/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Special thanks to the following people:
+* __[Andrew E](https://github.com/Andrew87E)__ for having his site up first for others and me to compare against.
+* _Everyone else who was in the Discord voice channel or who shared resources for me to reference._
