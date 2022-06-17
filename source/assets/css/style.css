@@ -54,13 +54,13 @@ a {
     background-position: center;
 }
 
-#services-offered {
+.main-body {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-#services-offered section {
+.body-block {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -69,11 +69,11 @@ a {
     color: #ffffff;
 }
 
-#services-offered img {
+.body-block img {
     max-height: 200px;
 }
 
-#services-offered h2 {
+.body-block h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
