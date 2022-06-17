@@ -19,4 +19,4 @@ __[Kurt Bixby](https://github.com/kurtbixby)__ refactored this webpage from star
 
 Special thanks to the following people:
 * __[Andrew E](https://github.com/Andrew87E)__ for having his site up first for others and me to compare against.
-* _Everyone else who was in the Discord voice channel or who shared resources for me to reference._
+* _Everyone who was in the Discord voice channel or who shared resources I could reference._
